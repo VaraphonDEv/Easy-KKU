@@ -3,4 +3,10 @@
 
     <string name="sigup">สมัครสมาชิก</string>
 
+    <string name="titile_HaveSpace">มีชองว่าง</string>
+    <string name="message_HaveSpace">กรุณากรอกให้ครบ</string>
+    <string name="title_UserFalse">User ผิด</string>
+    <string name="message_UserFalse">ไม่พบ้อมูลในระบบ</string>
+    <string name="title_PasswordFalse">password ไม่ถูกต้อง</string>
+    <string name="message_passwordFalse">Password ไม่ถูกต้องกรุณาลองอีกครั้ง</string>
 </resources>
